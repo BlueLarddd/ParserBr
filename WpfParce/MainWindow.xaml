@@ -1,0 +1,61 @@
+﻿<Window x:Class="WpfParce.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfParce"
+        mc:Ignorable="d"
+        WindowStyle="None"
+        ResizeMode="NoResize"
+        Background="Transparent"
+        AllowsTransparency="True"
+        
+        Height="450" Width="800"
+        >
+    <Border Background="#C09891">
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="600"/>
+                <ColumnDefinition/>
+
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="60"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <TextBlock Text="Новости Якутии"
+                       VerticalAlignment="Center"
+                       HorizontalAlignment="Center"
+                       Foreground="White"
+                       FontSize="32"
+                       Margin="20,0,0,0"/>
+            <StackPanel Grid.Row="1" Grid.Column="1">
+                <Image x:Name="Frontimage1" Height="77" Margin="0,0,0,0"/>
+                <Button x:Name="button1" Content="Читать далее" Click="button1_Click" Width="202" Background="#FFFAFF" FontFamily="Century Gothic" FontSize="10" HorizontalAlignment="Right" />
+                <Image x:Name="Frontimage2" Height="77"/>
+                <Button x:Name="button2" Content="Читать далее" Click="button2_Click" Width="202" Background="#FFFAFF" FontFamily="Century Gothic" FontSize="10" HorizontalAlignment="Right"/>
+                <Image x:Name="Frontimage3" Height="77"/>
+                <Button x:Name="button3" Content="Читать далее" Click="button3_Click" Width="202" Background="#FFFAFF" FontFamily="Century Gothic" FontSize="10" HorizontalAlignment="Right"/>
+                <Image x:Name="Frontimage4" Height="77"/>
+                <Button x:Name="button4" Content="Читать далее" Click="button4_Click" Width="203" Background="#FFFAFF" FontFamily="Century Gothic" FontSize="10" HorizontalAlignment="Right"/>
+
+
+            </StackPanel>
+            <StackPanel Grid.Row="1"
+                            
+                            Margin="10">
+
+                <TextBlock x:Name="header1" Height="85" Background="Transparent" FontSize="20" Foreground="#F4DBD8" FontFamily="Century Gothic" TextWrapping="Wrap"  />
+                <TextBlock x:Name="header2" Height="92" Background="Transparent" FontSize="20" Foreground="#F4DBD8" FontFamily="Century Gothic" TextWrapping="Wrap"/>
+                <TextBlock x:Name="header3" Height="93" Background="Transparent" FontSize="20" Foreground="#F4DBD8" FontFamily="Century Gothic" TextWrapping="Wrap"/>
+                <TextBlock x:Name="header4" Height="92" Background="Transparent" FontSize="20" Foreground="#F4DBD8" FontFamily="Century Gothic" TextWrapping="Wrap"/>
+ 
+
+            </StackPanel>
+            <Button x:Name="close" Content="выход" Grid.Column="1" HorizontalAlignment="Right" VerticalAlignment="Top" Height="20" Width="62"
+                    Click="close_Click" Background="#775144"/>
+            <Button x:Name="restart" Content="обновить" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Top" Height="20" Width="75"
+                    Click="restart_Click" Background="#BEA8A7"/>
+        </Grid>
+    </Border>
+</Window>

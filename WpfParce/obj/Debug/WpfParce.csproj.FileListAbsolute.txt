@@ -1,0 +1,58 @@
+C:\Users\Honor\source\repos\WpfParce\WpfParce\bin\Debug\WpfParce.exe.config
+C:\Users\Honor\source\repos\WpfParce\WpfParce\bin\Debug\WpfParce.exe
+C:\Users\Honor\source\repos\WpfParce\WpfParce\bin\Debug\WpfParce.pdb
+C:\Users\Honor\source\repos\WpfParce\WpfParce\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Honor\source\repos\WpfParce\WpfParce\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Honor\source\repos\WpfParce\WpfParce\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Honor\source\repos\WpfParce\WpfParce\obj\Debug\WpfParce.csproj.AssemblyReference.cache
+C:\Users\Honor\source\repos\WpfParce\WpfParce\obj\Debug\MainWindow.g.cs
+C:\Users\Honor\source\repos\WpfParce\WpfParce\obj\Debug\App.g.cs
+C:\Users\Honor\source\repos\WpfParce\WpfParce\obj\Debug\WpfParce_MarkupCompile.cache
+C:\Users\Honor\source\repos\WpfParce\WpfParce\obj\Debug\WpfParce_MarkupCompile.lref
+C:\Users\Honor\source\repos\WpfParce\WpfParce\obj\Debug\MainWindow.baml
+C:\Users\Honor\source\repos\WpfParce\WpfParce\obj\Debug\WpfParce.g.resources
+C:\Users\Honor\source\repos\WpfParce\WpfParce\obj\Debug\WpfParce.Properties.Resources.resources
+C:\Users\Honor\source\repos\WpfParce\WpfParce\obj\Debug\WpfParce.csproj.GenerateResource.cache
+C:\Users\Honor\source\repos\WpfParce\WpfParce\obj\Debug\WpfParce.csproj.CoreCompileInputs.cache
+C:\Users\Honor\source\repos\WpfParce\WpfParce\obj\Debug\WpfParce.csproj.CopyComplete
+C:\Users\Honor\source\repos\WpfParce\WpfParce\obj\Debug\WpfParce.exe
+C:\Users\Honor\source\repos\WpfParce\WpfParce\obj\Debug\WpfParce.pdb
+C:\Users\Honor\source\repos\brazil\WpfParce\bin\Debug\WpfParce.exe.config
+C:\Users\Honor\source\repos\brazil\WpfParce\bin\Debug\WpfParce.exe
+C:\Users\Honor\source\repos\brazil\WpfParce\bin\Debug\WpfParce.pdb
+C:\Users\Honor\source\repos\brazil\WpfParce\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Honor\source\repos\brazil\WpfParce\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Honor\source\repos\brazil\WpfParce\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Honor\source\repos\brazil\WpfParce\obj\Debug\WpfParce.csproj.AssemblyReference.cache
+C:\Users\Honor\source\repos\brazil\WpfParce\obj\Debug\MainWindow.g.cs
+C:\Users\Honor\source\repos\brazil\WpfParce\obj\Debug\App.g.cs
+C:\Users\Honor\source\repos\brazil\WpfParce\obj\Debug\WpfParce_MarkupCompile.cache
+C:\Users\Honor\source\repos\brazil\WpfParce\obj\Debug\WpfParce_MarkupCompile.lref
+C:\Users\Honor\source\repos\brazil\WpfParce\obj\Debug\MainWindow.baml
+C:\Users\Honor\source\repos\brazil\WpfParce\obj\Debug\WpfParce.g.resources
+C:\Users\Honor\source\repos\brazil\WpfParce\obj\Debug\WpfParce.Properties.Resources.resources
+C:\Users\Honor\source\repos\brazil\WpfParce\obj\Debug\WpfParce.csproj.GenerateResource.cache
+C:\Users\Honor\source\repos\brazil\WpfParce\obj\Debug\WpfParce.csproj.CoreCompileInputs.cache
+C:\Users\Honor\source\repos\brazil\WpfParce\obj\Debug\WpfParce.csproj.CopyComplete
+C:\Users\Honor\source\repos\brazil\WpfParce\obj\Debug\WpfParce.exe
+C:\Users\Honor\source\repos\brazil\WpfParce\obj\Debug\WpfParce.pdb
+C:\Users\fanta\OneDrive\Рабочий стол\brazil\WpfParce\bin\Debug\WpfParce.exe.config
+C:\Users\fanta\OneDrive\Рабочий стол\brazil\WpfParce\bin\Debug\WpfParce.exe
+C:\Users\fanta\OneDrive\Рабочий стол\brazil\WpfParce\bin\Debug\WpfParce.pdb
+C:\Users\fanta\OneDrive\Рабочий стол\brazil\WpfParce\bin\Debug\HtmlAgilityPack.dll
+C:\Users\fanta\OneDrive\Рабочий стол\brazil\WpfParce\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\fanta\OneDrive\Рабочий стол\brazil\WpfParce\bin\Debug\HtmlAgilityPack.xml
+C:\Users\fanta\OneDrive\Рабочий стол\brazil\WpfParce\obj\Debug\WpfParce.csproj.AssemblyReference.cache
+C:\Users\fanta\OneDrive\Рабочий стол\brazil\WpfParce\obj\Debug\WpfParce.csproj.SuggestedBindingRedirects.cache
+C:\Users\fanta\OneDrive\Рабочий стол\brazil\WpfParce\obj\Debug\MainWindow.g.cs
+C:\Users\fanta\OneDrive\Рабочий стол\brazil\WpfParce\obj\Debug\App.g.cs
+C:\Users\fanta\OneDrive\Рабочий стол\brazil\WpfParce\obj\Debug\WpfParce_MarkupCompile.cache
+C:\Users\fanta\OneDrive\Рабочий стол\brazil\WpfParce\obj\Debug\WpfParce_MarkupCompile.lref
+C:\Users\fanta\OneDrive\Рабочий стол\brazil\WpfParce\obj\Debug\MainWindow.baml
+C:\Users\fanta\OneDrive\Рабочий стол\brazil\WpfParce\obj\Debug\WpfParce.g.resources
+C:\Users\fanta\OneDrive\Рабочий стол\brazil\WpfParce\obj\Debug\WpfParce.Properties.Resources.resources
+C:\Users\fanta\OneDrive\Рабочий стол\brazil\WpfParce\obj\Debug\WpfParce.csproj.GenerateResource.cache
+C:\Users\fanta\OneDrive\Рабочий стол\brazil\WpfParce\obj\Debug\WpfParce.csproj.CoreCompileInputs.cache
+C:\Users\fanta\OneDrive\Рабочий стол\brazil\WpfParce\obj\Debug\WpfParce.csproj.CopyComplete
+C:\Users\fanta\OneDrive\Рабочий стол\brazil\WpfParce\obj\Debug\WpfParce.exe
+C:\Users\fanta\OneDrive\Рабочий стол\brazil\WpfParce\obj\Debug\WpfParce.pdb
